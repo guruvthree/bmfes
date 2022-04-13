@@ -107,7 +107,7 @@ $mybg1="mybg";
 					</div>
 
 					<div class="col-md-8 mt-xs-30 text-center text-md-left">
-						<h4>We are into,</h4>
+						<h4>We are out,</h4>
 						
 						
 						<p>Company formed in May’2016.We engaged with Israeli companies for registering their Patent in India and developing their design. We worked on the design, manufacturing and marketing of automobile heavy vehicle tools, Magnesium Piston etc., </p>
