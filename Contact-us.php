@@ -110,7 +110,7 @@ if(isset($_POST['submit']))
 	$form_mobile= $_POST['formmobile'];
 	$form_message= $_POST['formmessage'];
 
-	$to = "gurunathanphp@gmail.com";	
+	$to = "info@bmfes.in";	
 	
 	//subject and the html message
 	$subject = 'Message from ' . $form_name;	
